@@ -1,5 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=youjsdev)
-<a href="https://youjs.dev/"><img src="https://img.shields.io/badge/Website-www.youjs.dev-blue"/></a>
+<a href="https://youjs.dev/"><img src="https://img.shields.io/badge/Website-www.youjs.dev-%231675ba"/></a>
+<a href="https://discord.gg/mfxbPvb2WA/"><img src="https://img.shields.io/badge/Chat%20on-Discord-%235865f2"/></a>
 
 <!--
 
